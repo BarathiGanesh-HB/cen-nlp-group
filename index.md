@@ -50,3 +50,6 @@ Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 9. [VarDial 2017 - Fourth Workshop on NLP for Similar Languages, Varieties and Dialects](http://ttg.uni-saarland.de/vardial2017/sharedtask2017.html) - Mr. Vinayakumar R
 
 10. [The 8th International Cybersecurity Data Mining Competition 2017](http://www.csmining.org/cdmc2017/) - Mr. VinayaKumar R and Mr. Barathi Ganesh HB
+
+
+**Check out the CEN Alumunus profile** [here](http://nlp.amrita.edu/cenalumini/cen-alumini.html)
