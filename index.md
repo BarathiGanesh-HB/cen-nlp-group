@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Natural Language Processing Group (CEN-NLP)
 
-You can use the [editor on GitHub](https://github.com/BarathiGanesh-HB/cen-nlp-group/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Centre for Excellence in Computational Engineering and Networking ([CEN](https://www.amrita.edu/center/computational-engineering-and-networking))
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 
-### Markdown
+### Mentors specialized in Natural Language Processing, Machine Learning and Deep Learning
+[Dr.Anand Kumar M](https://www.amrita.edu/faculty/m-anandkumar)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Dr. Soman K P](https://www.amrita.edu/faculty/kp-soman)
 
-```markdown
-Syntax highlighted code block
+### Research Scholars specialized in Natural Language Processing, Machine Learning and Deep Learning
+[Mr. Barathi Ganesh HB](https://sites.google.com/site/barathiganeshhb/)
+[Mr. Vinayakumar R](https://sites.google.com/site/vinayakumarr77/)
 
-# Header 1
-## Header 2
-### Header 3
+#### Currently participating shared tasks
+1. [Affect in Tweets](https://competitions.codalab.org/competitions/17751) - Ms. Shalini
 
-- Bulleted
-- List
+2. [Multilingual Emoji Prediction](https://competitions.codalab.org/competitions/17344) - Mr. Ajay SG and Mr. Barathi Ganesh HB
 
-1. Numbered
-2. List
+3. [Irony Detection in English Tweets](https://competitions.codalab.org/competitions/17468) - Ms. Reshma U and Barathi Ganesh HB
 
-**Bold** and _Italic_ and `Code` text
+4. [Parsing Time Normalizations](https://competitions.codalab.org/competitions/17286) - Mr. Sankaralingam C and Barathi Ganesh HB
 
-[Link](url) and ![Image](src)
-```
+5. [Semantic Relation Extraction and Classification in Scientific Papers](https://competitions.codalab.org/competitions/17422) - Mr. Barathi Ganesh HB
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+6. [Semantic Extraction from CybersecUrity REports using Natural Language Processing (SecureNLP)](https://competitions.codalab.org/competitions/17262) - Mr. Vinayakumar R and Harikrishnan
 
-### Jekyll Themes
+#### Shared tasks participated in 2017
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BarathiGanesh-HB/cen-nlp-group/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. [Gender Identification in Russian texts (RusProfiling)](http://en.rusprofilinglab.ru/rusprofiling-at-pan/) - Mr. Vivek Vinayan, Ms. Reshma U and Mr. Barathi Ganesh HB
 
-### Support or Contact
+2. [Information Retrieval from Legal Documents (IRLeD)](https://sites.google.com/view/fire2017irled) - Ms. Reshma U and Barathi Ganesh HB
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+3. [PAN CLEF - Author Profiling 2017](http://pan.webis.de/clef17/pan17-web/author-profiling.html) - Mr. Barathi Ganesh HB
+
+4. [Sentiment Analysis for Indian Languages (Code Mixed)](http://www.dasdipankar.com/SAILCodeMixed.html) - Ms. Shalini, Mr. Shivkaran, Ms. Reshma U and Barathi Ganesh HB
+
+5. [2nd Social Media Mining for Health Applications Shared Task at AMIA 2017](https://healthlanguageprocessing.org/sharedtask2/) - Mr. Barathi Ganesh HB and Vinayakumar R
+
+6. [The 8th International Cybersecurity Data Mining Competition 2017](http://www.csmining.org/cdmc2017/) - Mr. VinayaKumar R and Mr. Barathi Ganesh HB
