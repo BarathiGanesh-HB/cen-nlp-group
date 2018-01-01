@@ -5,7 +5,7 @@ Centre for Excellence in Computational Engineering and Networking ([CEN](https:/
 Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 
 ### Mentors specialized in Natural Language Processing, Machine Learning and Deep Learning
-[Dr.Anand Kumar M](https://www.amrita.edu/faculty/m-anandkumar)
+[Dr. Anand Kumar M](https://www.amrita.edu/faculty/m-anandkumar)
 
 [Dr. Soman K P](https://www.amrita.edu/faculty/kp-soman)
 
