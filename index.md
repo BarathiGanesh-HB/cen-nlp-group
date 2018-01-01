@@ -17,7 +17,7 @@ Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 [Mr. Vinayakumar R](https://sites.google.com/site/vinayakumarr77/)
 
 #### Currently participating shared tasks
-1. [Affect in Tweets](https://competitions.codalab.org/competitions/17751) - Ms. Shalini
+1. [Affect in Tweets](https://competitions.codalab.org/competitions/17751) - Ms. Shalini and Mr. Barathi Ganesh HB
 
 2. [Multilingual Emoji Prediction](https://competitions.codalab.org/competitions/17344) - Mr. Ajay SG and Mr. Barathi Ganesh HB
 
@@ -27,7 +27,7 @@ Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 
 5. [Semantic Relation Extraction and Classification in Scientific Papers](https://competitions.codalab.org/competitions/17422) - Mr. Barathi Ganesh HB
 
-6. [Semantic Extraction from CybersecUrity REports using Natural Language Processing (SecureNLP)](https://competitions.codalab.org/competitions/17262) - Mr. Vinayakumar R and Harikrishnan
+6. [Semantic Extraction from CybersecUrity REports using Natural Language Processing (SecureNLP)](https://competitions.codalab.org/competitions/17262) - Mr. Vinayakumar R, Mr. Barathi Ganesh HB and Harikrishnan
 
 #### Shared tasks participated in 2017
 
