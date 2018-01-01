@@ -41,7 +41,7 @@ Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 
 5. [DEFT 2017 Text Search @ TALN / RECITAL 2017 Opinion analysis and figurative language in tweets in French](https://deft.limsi.fr/2017/indexEng.html) - Mr. Vinayakumar R
 
-6. [Sentiment Analysis for Indian Languages (Code Mixed)](http://www.dasdipankar.com/SAILCodeMixed.html) - Ms. Shalini, Mr. Shivkaran, Ms. Reshma U and Barathi Ganesh HB
+6. [Sentiment Analysis for Indian Languages (Code Mixed)](http://www.dasdipankar.com/SAILCodeMixed.html) - Ms. Shalini, Mr. Shivkaran, Ms. Reshma U and Mr. Barathi Ganesh HB
 
 7. [Stance and Gender Detection in Tweets on Catalan Independence@Ibereval 2017](http://stel.ub.edu/Stance-IberEval2017/) - Mr. Vinayakumar R
 
