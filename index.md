@@ -39,6 +39,6 @@ Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 
 4. [Sentiment Analysis for Indian Languages (Code Mixed)](http://www.dasdipankar.com/SAILCodeMixed.html) - Ms. Shalini, Mr. Shivkaran, Ms. Reshma U and Barathi Ganesh HB
 
-5. [2nd Social Media Mining for Health Applications Shared Task at AMIA 2017](https://healthlanguageprocessing.org/sharedtask2/) - Mr. Barathi Ganesh HB and Vinayakumar R
+5. [2nd Social Media Mining for Health Applications Shared Task at AMIA 2017](https://healthlanguageprocessing.org/sharedtask2/) -  Vinayakumar R and Mr. Barathi Ganesh HB
 
 6. [The 8th International Cybersecurity Data Mining Competition 2017](http://www.csmining.org/cdmc2017/) - Mr. VinayaKumar R and Mr. Barathi Ganesh HB
