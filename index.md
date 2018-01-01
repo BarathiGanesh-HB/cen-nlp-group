@@ -53,3 +53,7 @@ Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 
 
 **Check out the CEN Alumunus profile** [here](http://nlp.amrita.edu/cenalumini/cen-alumini.html)
+
+**Check out the CEN Students profile** [here](http://nlp.amrita.edu/students/index.html)
+
+**Check out the workshops conducted by CEN** [here](https://barathiganesh-hb.github.io/cen-workshops/)
