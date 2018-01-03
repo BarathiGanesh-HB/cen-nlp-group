@@ -51,6 +51,16 @@ Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 
 10. [The 8th International Cybersecurity Data Mining Competition 2017](http://www.csmining.org/cdmc2017/) - Mr. VinayaKumar R and Mr. Barathi Ganesh HB
 
+### Shared tasks conducted by CEN-NLP Group
+1. [SHARED TASK ON DETECTING PARAPHRASES IN INDIAN LANGUAGES (DPIL)](http://nlp.amrita.edu/dpil_cen/index.html)
+
+2. [Shared Task & Workshop on Machine Translation System Indian Languages (MTIL)](http://nlp.amrita.edu/mtil_cen/index.html)
+
+3. [Indian Native Language Identification-(INLI)](http://nlp.amrita.edu/INLI/Test.html)
+
+**Check out the developed NLP corpus** [here](http://nlp.amrita.edu/nlpcorpus.html)
+
+**Checkout the developed NLP tools** [here](http://nlp.amrita.edu/nlptools.html) 
 
 **Check out the CEN Alumunus profile** [here](http://nlp.amrita.edu/cenalumini/cen-alumini.html)
 
