@@ -29,6 +29,8 @@ Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 
 6. [Semantic Extraction from CybersecUrity REports using Natural Language Processing (SecureNLP)](https://competitions.codalab.org/competitions/17262) - Mr. Vinayakumar R, Mr. Barathi Ganesh HB and Harikrishnan
 
+7. [Hypernym Discovery](https://competitions.codalab.org/competitions/17119) - Mr. Vivek Vinayan
+
 ##### Shared tasks participated in 2017
 
 1. [Gender Identification in Russian texts (RusProfiling)](http://en.rusprofilinglab.ru/rusprofiling-at-pan/) - Mr. Vivek Vinayan, Ms. Reshma U and Mr. Barathi Ganesh HB
@@ -52,7 +54,7 @@ Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 10. [The 8th International Cybersecurity Data Mining Competition 2017](http://www.csmining.org/cdmc2017/) - Mr. VinayaKumar R and Mr. Barathi Ganesh HB
 
 ### Shared tasks conducted by CEN-NLP Group
-1. [SHARED TASK ON DETECTING PARAPHRASES IN INDIAN LANGUAGES (DPIL)](http://nlp.amrita.edu/dpil_cen/index.html)
+1. [Shared Task on Detecting Paraphrases in Indian Languages (DPIL)](http://nlp.amrita.edu/dpil_cen/index.html)
 
 2. [Shared Task & Workshop on Machine Translation System Indian Languages (MTIL)](http://nlp.amrita.edu/mtil_cen/index.html)
 
@@ -60,6 +62,6 @@ Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 
 ## [**NLP corpuses** ](http://nlp.amrita.edu/nlpcorpus.html), [**NLP tools**](http://nlp.amrita.edu/nlptools.html) 
 
-## [**CEN Alumunus profile**](http://nlp.amrita.edu/cenalumini/cen-alumini.html), **[CEN Students profile**](http://nlp.amrita.edu/students/index.html)
+## [**CEN Alumunus profile**](http://nlp.amrita.edu/cenalumini/cen-alumini.html), [**CEN Students profile**](http://nlp.amrita.edu/students/index.html)
 
 ## [**Workshops conducted by CEN**](https://barathiganesh-hb.github.io/cen-workshops/)
