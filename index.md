@@ -58,12 +58,12 @@ Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 
 3. [Indian Native Language Identification-(INLI)](http://nlp.amrita.edu/INLI/Test.html)
 
-**Check out the developed NLP corpus** [here](http://nlp.amrita.edu/nlpcorpus.html)
+## **Check out our NLP corpuses** [here](http://nlp.amrita.edu/nlpcorpus.html)
 
-**Checkout the developed NLP tools** [here](http://nlp.amrita.edu/nlptools.html) 
+## **Check out our NLP tools** [here](http://nlp.amrita.edu/nlptools.html) 
 
-**Check out the CEN Alumunus profile** [here](http://nlp.amrita.edu/cenalumini/cen-alumini.html)
+## **Check out the CEN Alumunus profile** [here](http://nlp.amrita.edu/cenalumini/cen-alumini.html)
 
-**Check out the CEN Students profile** [here](http://nlp.amrita.edu/students/index.html)
+## **Check out the CEN Students profile** [here](http://nlp.amrita.edu/students/index.html)
 
-**Check out the workshops conducted by CEN** [here](https://barathiganesh-hb.github.io/cen-workshops/)
+## **Check out the workshops conducted by CEN** [here](https://barathiganesh-hb.github.io/cen-workshops/)
