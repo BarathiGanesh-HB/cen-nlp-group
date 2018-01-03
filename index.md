@@ -60,7 +60,7 @@ Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 
 3. [Indian Native Language Identification-(INLI)](http://nlp.amrita.edu/INLI/Test.html)
 
-## [**NLP corpuses** ](http://nlp.amrita.edu/nlpcorpus.html), [**NLP tools**](http://nlp.amrita.edu/nlptools.html) 
+## [**NLP corpuses**](http://nlp.amrita.edu/nlpcorpus.html), [**NLP tools**](http://nlp.amrita.edu/nlptools.html) 
 
 ## [**CEN Alumunus profile**](http://nlp.amrita.edu/cenalumini/cen-alumini.html), [**CEN Students profile**](http://nlp.amrita.edu/students/index.html)
 
