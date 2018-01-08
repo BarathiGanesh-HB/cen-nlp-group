@@ -29,7 +29,7 @@ Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 
 6. [Semantic Extraction from CybersecUrity REports using Natural Language Processing (SecureNLP)](https://competitions.codalab.org/competitions/17262) - Mr. Vinayakumar R, Mr. Barathi Ganesh HB and Harikrishnan
 
-7. [Hypernym Discovery](https://competitions.codalab.org/competitions/17119) - Mr. Vivek Vinayan
+7. [Hypernym Discovery](Capturing Discriminative Attributes) - Mr. Vivek Vinayan
 
 ##### Shared tasks participated in 2017
 
