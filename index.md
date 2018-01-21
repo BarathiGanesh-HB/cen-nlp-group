@@ -12,7 +12,7 @@ Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 [Dr. Soman K P](https://www.amrita.edu/faculty/kp-soman)
 
 #### Research Scholars specialized in Natural Language Processing, Machine Learning and Deep Learning
-[Mr. Barathi Ganesh HB](https://sites.google.com/site/barathiganeshhb/)
+[Mr. Barathi Ganesh HB](https://barathiganesh-hb.github.io/)
 
 [Mr. Vinayakumar R](https://sites.google.com/site/vinayakumarr77/)
 
